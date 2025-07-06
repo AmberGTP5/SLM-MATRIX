@@ -35,7 +35,7 @@ This project introduces SLM-MATRIX, a multi-agent framework designed to improve 
     * Add your API credentials to the `.env` file as follows:
         ```
         API_KEY="your_api_key_here"
-        API_BASE="[https://api.together.xyz/v1](https://api.together.xyz/v1)"
+        API_BASE="[https://api.together.xyz/v1]"
 
         # If using a second API for the aggregate model in MoA.py
         API_KEY_2="your_second_api_key_here"
