@@ -15,7 +15,7 @@ This project introduces SLM-MATRIX, a multi-agent framework designed to improve 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-username]/SLM-MATRIX.git
+    git clone https://github.com/AmberGTP5/SLM-MATRIX.git
     cd SLM-MATRIX
     ```
 
