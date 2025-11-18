@@ -96,6 +96,13 @@ Modify the MODEL_NAME variable in the relevant script (e.g., MCTS_V7.py) to an a
 
 Be aware that using a different model may lead to numerical results that do not perfectly match those reported in our paper, though the code can still be used to validate the proposed methodology.
 
+---
+
+## ✏️ Citation
+
+If you use this project or paper in your research, please consider citing:
+
+```bibtex
 @article{li_2025_slmmatrix,
   author = {Li, X. and Huang, Z. and Quan, S. and et al.},
   title = {{SLM-MATRIX: a multi-agent trajectory reasoning and verification framework for enhancing language models in materials data extraction}},
@@ -105,12 +112,13 @@ Be aware that using a different model may lead to numerical results that do not 
   pages = {241},
   year = {2025},
   doi = {10.1038/s41524-025-01719-x},
-  url = {https://doi.org/10.1038/s41524-025-01719-x}
+  url = {[https://doi.org/10.1038/s41524-025-01719-x](https://doi.org/10.1038/s41524-025-01719-x)}
 }
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 
 
