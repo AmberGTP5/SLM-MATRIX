@@ -103,7 +103,7 @@ Be aware that using a different model may lead to numerical results that do not 
 If you use this project or paper in your research, please consider citing:
 
 ```bibtex
-@article{li_2025_slmmatrix,
+@article{
   author = {Li, X. and Huang, Z. and Quan, S. and et al.},
   title = {{SLM-MATRIX: a multi-agent trajectory reasoning and verification framework for enhancing language models in materials data extraction}},
   journal = {npj Computational Materials},
@@ -119,6 +119,7 @@ If you use this project or paper in your research, please consider citing:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 
 
